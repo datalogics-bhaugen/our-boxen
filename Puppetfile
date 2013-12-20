@@ -55,3 +55,21 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "osx", "2.2.1"
+github "java", "1.2.0"
+github "vlc", "1.0.5"
+github "iterm2", "1.0.6"
+github "onepassword", "1.1.0"
+github "dropbox", "1.2.0"
+github "skype", "1.0.7"
+github "eclipse", "2.2.0"
+github "chrome", "1.1.2"
+github "flux", "1.0.0"
+github "mou", "1.1.3"
+github "picasa", "1.0.0"
+github "osxfuse", "1.1.0"
+github "cord", "1.0.0"
+github "zsh", "1.0.0"
+github "mongodb", "1.2.0"
+
